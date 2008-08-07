@@ -1,0 +1,10 @@
+h1. jmd_sitemap
+
+p. Description
+
+p. This is a plugin for "Textpattern":http://textpattern.com. It is a fork of John-Michael Deldin's plugin of the same name.
+
+h2. Licence
+
+p. This project is released under the "GPLv2 licence":http://www.fsf.org/licensing/licenses/info/GPLv2.html.
+
