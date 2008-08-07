@@ -1,8 +1,6 @@
 h1. jmd_sitemap
 
-p. Description
-
-p. This is a plugin for "Textpattern":http://textpattern.com. It is a fork of John-Michael Deldin's plugin of the same name.
+p. This is a plugin for "Textpattern":http://textpattern.com. It is a fork of Jon-Michael Deldin's plugin of the same name.
 
 h2. Licence
 
